@@ -78,8 +78,8 @@ const styles = StyleSheet.create({
   },
 
   university: {
-    fontWeight: "200", // Less than bold
-    color: "gray", // Gray color
+    fontWeight: "200",
+    color: "gray",
   },
   studentNumber: {
     fontSize: 16,
